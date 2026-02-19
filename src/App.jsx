@@ -147,7 +147,7 @@ function App() {
                   className="btn btn-primary btn-sm"
                   onClick={() => handleEdit(emp.id)}
                 >
-                  Edit
+                 After Edit
                 </button>{" "}
                 <button
                   className="btn btn-danger btn-sm"
