@@ -153,7 +153,7 @@ function App() {
                   className="btn btn-danger btn-sm"
                   onClick={() => handleDelete(emp.id)}
                 >
-                  Delete
+                 After Delete
                 </button>
               </td>
             </tr>
@@ -161,6 +161,7 @@ function App() {
         </tbody>
       </table>
     </div>
+    
   );
 }
 
